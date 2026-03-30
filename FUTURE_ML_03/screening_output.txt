@@ -1,0 +1,18 @@
+Cleaning text data and setting up TF-IDF...
+Performing skill gap analysis...
+
+--- Top 10 Ranked Candidates ---
+  Candidate_ID  Match_Percentage                     Missing_Skills
+0    CAND-1000             36.57                   SQL, NLP, Docker
+1    CAND-1016             36.57                   SQL, NLP, Docker
+2    CAND-1068             36.33                   NLP, AWS, Docker
+3    CAND-1017             33.31              SQL, NLP, AWS, Docker
+4    CAND-1053             33.08                   SQL, AWS, Docker
+5    CAND-1027             31.36                   SQL, AWS, Docker
+6    CAND-1074             31.03      Python, Machine Learning, NLP
+7    CAND-1081             29.63      SQL, Machine Learning, Docker
+8    CAND-1013             27.72         SQL, Machine Learning, AWS
+9    CAND-1037             27.72  SQL, Deep Learning, NLP, AWS, Git
+
+Saved full ranking report to 'ranked_candidates.csv'
+Saved candidate ranking graph to 'candidate_ranking.png'

@@ -1,0 +1,11 @@
+We are looking for a Machine Learning Engineer to join our growing data team.
+    
+    Responsibilities:
+    - Build and deploy scalable machine learning models to production.
+    - Work with deep learning frameworks and natural language processing techniques.
+    - Write clean, production-ready code in Python.
+    - Query massive datasets using SQL to extract actionable insights.
+    - Deploy models to AWS using Docker and Kubernetes.
+    
+    Required Skills:
+    Python, SQL, Machine Learning, Deep Learning, NLP, AWS, Docker, Git.

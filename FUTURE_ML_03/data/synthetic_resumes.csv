@@ -1,0 +1,501 @@
+Candidate_ID,Resume_Text,True_Skills
+CAND-1000,"Name: Jordan Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Deep Learning, AWS, Git, Python, PyTorch, Machine Learning.
+Skills: Deep Learning, AWS, Git, Python, PyTorch, Machine Learning
+","Deep Learning, AWS, Git, Python, PyTorch, Machine Learning"
+CAND-1001,"Name: Alex Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Spark, TensorFlow, Git, Python, PyTorch, Machine Learning.
+Skills: Spark, TensorFlow, Git, Python, PyTorch, Machine Learning
+","Spark, TensorFlow, Git, Python, PyTorch, Machine Learning"
+CAND-1002,"Name: Jamie Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Spark, Docker, Git.
+Skills: Spark, Docker, Git, SQL, Kubernetes, Machine Learning
+","Spark, Docker, Git, SQL, Kubernetes, Machine Learning"
+CAND-1003,"Name: Jordan Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in AWS, Spark, Docker.
+Skills: AWS, Spark, Docker, Git, NLP, SQL
+","AWS, Spark, Docker, Git, NLP, SQL"
+CAND-1004,"Name: Jamie Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in React, CSS, JavaScript.
+Skills: React, CSS, JavaScript, HTML, Git
+","React, CSS, JavaScript, HTML, Git"
+CAND-1005,"Name: Morgan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using React and JavaScript.
+Skills: React, JavaScript, HTML, Git, Java
+","React, JavaScript, HTML, Git, Java"
+CAND-1006,"Name: Riley Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Docker, Airflow, NLP.
+Skills: Docker, Airflow, NLP, Git, SQL, Kubernetes
+","Docker, Airflow, NLP, Git, SQL, Kubernetes"
+CAND-1007,"Name: Taylor Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing CSS to improve efficiency.
+Skills: CSS, C++, JavaScript, HTML, Git, Java
+","CSS, C++, JavaScript, HTML, Git, Java"
+CAND-1008,"Name: Alex Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using AWS and Spark.
+Skills: AWS, Spark, HTML, Docker, Airflow
+","AWS, Spark, HTML, Docker, Airflow"
+CAND-1009,"Name: Riley Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including C++, JavaScript, HTML, Git, Java.
+Skills: C++, JavaScript, HTML, Git, Java
+","C++, JavaScript, HTML, Git, Java"
+CAND-1010,"Name: Casey Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including AWS, CSS, Docker, TensorFlow, Java.
+Skills: AWS, CSS, Docker, TensorFlow, Java
+","AWS, CSS, Docker, TensorFlow, Java"
+CAND-1011,"Name: Jordan Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using HTML and JavaScript.
+Skills: HTML, JavaScript, React, Java
+","HTML, JavaScript, React, Java"
+CAND-1012,"Name: Jamie Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Hadoop, AWS, Git.
+Skills: Hadoop, AWS, Git, NLP, SQL, Kubernetes
+","Hadoop, AWS, Git, NLP, SQL, Kubernetes"
+CAND-1013,"Name: Jordan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Deep Learning, Docker, Git, Python, NLP, PyTorch.
+Skills: Deep Learning, Docker, Git, Python, NLP, PyTorch
+","Deep Learning, Docker, Git, Python, NLP, PyTorch"
+CAND-1014,"Name: Jordan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing AWS to improve efficiency.
+Skills: AWS, Docker, TensorFlow, Git, SQL, Kubernetes
+","AWS, Docker, TensorFlow, Git, SQL, Kubernetes"
+CAND-1015,"Name: Riley Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using AWS and Spark.
+Skills: AWS, Spark, Docker, TensorFlow, Git, SQL
+","AWS, Spark, Docker, TensorFlow, Git, SQL"
+CAND-1016,"Name: Jordan Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Deep Learning, AWS, Git, Python, PyTorch, Machine Learning.
+Skills: Deep Learning, AWS, Git, Python, PyTorch, Machine Learning
+","Deep Learning, AWS, Git, Python, PyTorch, Machine Learning"
+CAND-1017,"Name: Taylor Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Deep Learning, TensorFlow, Git, Python, Kubernetes, PyTorch, Machine Learning.
+Skills: Deep Learning, TensorFlow, Git, Python, Kubernetes, PyTorch, Machine Learning
+","Deep Learning, TensorFlow, Git, Python, Kubernetes, PyTorch, Machine Learning"
+CAND-1018,"Name: Riley Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Hadoop, AWS, Spark, Docker, Git, NLP, SQL.
+Skills: Hadoop, AWS, Spark, Docker, Git, NLP, SQL
+","Hadoop, AWS, Spark, Docker, Git, NLP, SQL"
+CAND-1019,"Name: Morgan Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using TensorFlow and Git.
+Skills: TensorFlow, Git, Python, SQL, PyTorch, Machine Learning
+","TensorFlow, Git, Python, SQL, PyTorch, Machine Learning"
+CAND-1020,"Name: Riley Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing TensorFlow to improve efficiency.
+Skills: TensorFlow, Git, Python, SQL, PyTorch, Machine Learning
+","TensorFlow, Git, Python, SQL, PyTorch, Machine Learning"
+CAND-1021,"Name: Drew Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including HTML, JavaScript, Java, CSS.
+Skills: HTML, JavaScript, Java, CSS
+","HTML, JavaScript, Java, CSS"
+CAND-1022,"Name: Jamie Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Hadoop, CSS, Git, NLP, SQL.
+Skills: Hadoop, CSS, Git, NLP, SQL
+","Hadoop, CSS, Git, NLP, SQL"
+CAND-1023,"Name: Riley Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Hadoop to improve efficiency.
+Skills: Hadoop, TensorFlow, Git, Python, PyTorch, Machine Learning
+","Hadoop, TensorFlow, Git, Python, PyTorch, Machine Learning"
+CAND-1024,"Name: Taylor Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including AWS, Spark, Airflow, NLP, Git, SQL, Kubernetes.
+Skills: AWS, Spark, Airflow, NLP, Git, SQL, Kubernetes
+","AWS, Spark, Airflow, NLP, Git, SQL, Kubernetes"
+CAND-1025,"Name: Alex Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Hadoop to improve efficiency.
+Skills: Hadoop, Airflow, Python, Git, SQL, Kubernetes
+","Hadoop, Airflow, Python, Git, SQL, Kubernetes"
+CAND-1026,"Name: Alex Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Hadoop, AWS, Airflow, NLP, Git, SQL, Kubernetes.
+Skills: Hadoop, AWS, Airflow, NLP, Git, SQL, Kubernetes
+","Hadoop, AWS, Airflow, NLP, Git, SQL, Kubernetes"
+CAND-1027,"Name: Drew Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Deep Learning to improve efficiency.
+Skills: Deep Learning, Git, NLP, Python, Kubernetes, PyTorch, Machine Learning
+","Deep Learning, Git, NLP, Python, Kubernetes, PyTorch, Machine Learning"
+CAND-1028,"Name: Riley Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using CSS and JavaScript.
+Skills: CSS, JavaScript, HTML, Git, Java
+","CSS, JavaScript, HTML, Git, Java"
+CAND-1029,"Name: Taylor Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using React and Deep Learning.
+Skills: React, Deep Learning, JavaScript, PyTorch, Machine Learning
+","React, Deep Learning, JavaScript, PyTorch, Machine Learning"
+CAND-1030,"Name: Alex Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including AWS, Spark, TensorFlow, Git, SQL, Kubernetes.
+Skills: AWS, Spark, TensorFlow, Git, SQL, Kubernetes
+","AWS, Spark, TensorFlow, Git, SQL, Kubernetes"
+CAND-1031,"Name: Casey Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing React to improve efficiency.
+Skills: React, CSS, C++, JavaScript, HTML, Java
+","React, CSS, C++, JavaScript, HTML, Java"
+CAND-1032,"Name: Drew Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using Git and HTML.
+Skills: Git, HTML, JavaScript, C++
+","Git, HTML, JavaScript, C++"
+CAND-1033,"Name: Morgan Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Hadoop, AWS, Spark.
+Skills: Hadoop, AWS, Spark, Docker, Git, Python, SQL
+","Hadoop, AWS, Spark, Docker, Git, Python, SQL"
+CAND-1034,"Name: Casey Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Spark to improve efficiency.
+Skills: Spark, Docker, Git, SQL, Kubernetes, PyTorch
+","Spark, Docker, Git, SQL, Kubernetes, PyTorch"
+CAND-1035,"Name: Casey Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing React to improve efficiency.
+Skills: React, JavaScript, HTML, Git, Java
+","React, JavaScript, HTML, Git, Java"
+CAND-1036,"Name: Casey Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using CSS and C++.
+Skills: CSS, C++, JavaScript, HTML, Java
+","CSS, C++, JavaScript, HTML, Java"
+CAND-1037,"Name: Casey Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Spark, Docker, TensorFlow, Python, Machine Learning.
+Skills: Spark, Docker, TensorFlow, Python, Machine Learning
+","Spark, Docker, TensorFlow, Python, Machine Learning"
+CAND-1038,"Name: Alex Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Deep Learning to improve efficiency.
+Skills: Deep Learning, HTML, TensorFlow, Python, NLP
+","Deep Learning, HTML, TensorFlow, Python, NLP"
+CAND-1039,"Name: Riley Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Hadoop to improve efficiency.
+Skills: Hadoop, CSS, TensorFlow, Kubernetes, Machine Learning
+","Hadoop, CSS, TensorFlow, Kubernetes, Machine Learning"
+CAND-1040,"Name: Taylor Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Deep Learning to improve efficiency.
+Skills: Deep Learning, Hadoop, TensorFlow, Git, NLP, Python, PyTorch
+","Deep Learning, Hadoop, TensorFlow, Git, NLP, Python, PyTorch"
+CAND-1041,"Name: Morgan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing AWS to improve efficiency.
+Skills: AWS, Docker, Git, NLP, SQL, Kubernetes
+","AWS, Docker, Git, NLP, SQL, Kubernetes"
+CAND-1042,"Name: Drew Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in AWS, TensorFlow, Git.
+Skills: AWS, TensorFlow, Git, NLP, Python, PyTorch
+","AWS, TensorFlow, Git, NLP, Python, PyTorch"
+CAND-1043,"Name: Casey Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in AWS, Deep Learning, Airflow.
+Skills: AWS, Deep Learning, Airflow, Git, SQL, Kubernetes
+","AWS, Deep Learning, Airflow, Git, SQL, Kubernetes"
+CAND-1044,"Name: Alex Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in HTML, JavaScript, C++.
+Skills: HTML, JavaScript, C++, CSS
+","HTML, JavaScript, C++, CSS"
+CAND-1045,"Name: Jamie Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Spark, Docker, TensorFlow.
+Skills: Spark, Docker, TensorFlow, Airflow, Git, SQL
+","Spark, Docker, TensorFlow, Airflow, Git, SQL"
+CAND-1046,"Name: Casey Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including React, JavaScript, Airflow, NLP, SQL.
+Skills: React, JavaScript, Airflow, NLP, SQL
+","React, JavaScript, Airflow, NLP, SQL"
+CAND-1047,"Name: Jordan Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in TensorFlow, Git, NLP.
+Skills: TensorFlow, Git, NLP, Python, Kubernetes, PyTorch, Machine Learning
+","TensorFlow, Git, NLP, Python, Kubernetes, PyTorch, Machine Learning"
+CAND-1048,"Name: Riley Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Deep Learning, TensorFlow, Git.
+Skills: Deep Learning, TensorFlow, Git, NLP, Python, Kubernetes, PyTorch
+","Deep Learning, TensorFlow, Git, NLP, Python, Kubernetes, PyTorch"
+CAND-1049,"Name: Casey Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using AWS and Hadoop.
+Skills: AWS, Hadoop, TensorFlow, Airflow, Git, SQL, Kubernetes
+","AWS, Hadoop, TensorFlow, Airflow, Git, SQL, Kubernetes"
+CAND-1050,"Name: Drew Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including React, C++, JavaScript, HTML, Java.
+Skills: React, C++, JavaScript, HTML, Java
+","React, C++, JavaScript, HTML, Java"
+CAND-1051,"Name: Riley Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Deep Learning to improve efficiency.
+Skills: Deep Learning, AWS, Spark, Git, SQL, Kubernetes
+","Deep Learning, AWS, Spark, Git, SQL, Kubernetes"
+CAND-1052,"Name: Alex Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including React, CSS, JavaScript, HTML, Git, Java.
+Skills: React, CSS, JavaScript, HTML, Git, Java
+","React, CSS, JavaScript, HTML, Git, Java"
+CAND-1053,"Name: Jamie Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Deep Learning, Hadoop, Git, NLP, Python, PyTorch, Machine Learning.
+Skills: Deep Learning, Hadoop, Git, NLP, Python, PyTorch, Machine Learning
+","Deep Learning, Hadoop, Git, NLP, Python, PyTorch, Machine Learning"
+CAND-1054,"Name: Morgan Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including AWS, Hadoop, Spark, Git, NLP, SQL.
+Skills: AWS, Hadoop, Spark, Git, NLP, SQL
+","AWS, Hadoop, Spark, Git, NLP, SQL"
+CAND-1055,"Name: Drew Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including AWS, TensorFlow, Git, Python, PyTorch, Machine Learning.
+Skills: AWS, TensorFlow, Git, Python, PyTorch, Machine Learning
+","AWS, TensorFlow, Git, Python, PyTorch, Machine Learning"
+CAND-1056,"Name: Casey Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in C++, CSS, HTML.
+Skills: C++, CSS, HTML, Java, PyTorch
+","C++, CSS, HTML, Java, PyTorch"
+CAND-1057,"Name: Morgan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in AWS, Deep Learning, Docker.
+Skills: AWS, Deep Learning, Docker, Kubernetes, Java
+","AWS, Deep Learning, Docker, Kubernetes, Java"
+CAND-1058,"Name: Morgan Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing React to improve efficiency.
+Skills: React, JavaScript, HTML, Git, Java
+","React, JavaScript, HTML, Git, Java"
+CAND-1059,"Name: Drew Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using Hadoop and Docker.
+Skills: Hadoop, Docker, TensorFlow, Git, SQL, Kubernetes
+","Hadoop, Docker, TensorFlow, Git, SQL, Kubernetes"
+CAND-1060,"Name: Jamie Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using Hadoop and TensorFlow.
+Skills: Hadoop, TensorFlow, Airflow, Git, SQL, Kubernetes
+","Hadoop, TensorFlow, Airflow, Git, SQL, Kubernetes"
+CAND-1061,"Name: Drew Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in CSS, C++, JavaScript.
+Skills: CSS, C++, JavaScript, HTML, Java
+","CSS, C++, JavaScript, HTML, Java"
+CAND-1062,"Name: Taylor Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing C++ to improve efficiency.
+Skills: C++, Spark, HTML, Airflow, Python
+","C++, Spark, HTML, Airflow, Python"
+CAND-1063,"Name: Jamie Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Hadoop, TensorFlow, Git, NLP, Python, PyTorch.
+Skills: Hadoop, TensorFlow, Git, NLP, Python, PyTorch
+","Hadoop, TensorFlow, Git, NLP, Python, PyTorch"
+CAND-1064,"Name: Drew Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Hadoop, Docker, Git.
+Skills: Hadoop, Docker, Git, SQL, Kubernetes, Machine Learning
+","Hadoop, Docker, Git, SQL, Kubernetes, Machine Learning"
+CAND-1065,"Name: Alex Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in React, Deep Learning, C++.
+Skills: React, Deep Learning, C++, Docker, Git
+","React, Deep Learning, C++, Docker, Git"
+CAND-1066,"Name: Morgan Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Hadoop to improve efficiency.
+Skills: Hadoop, Spark, Airflow, Git, SQL, Machine Learning
+","Hadoop, Spark, Airflow, Git, SQL, Machine Learning"
+CAND-1067,"Name: Casey Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing AWS to improve efficiency.
+Skills: AWS, Airflow, NLP, Git, SQL, Kubernetes
+","AWS, Airflow, NLP, Git, SQL, Kubernetes"
+CAND-1068,"Name: Casey Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Deep Learning, TensorFlow, Git, Python, SQL, Machine Learning.
+Skills: Deep Learning, TensorFlow, Git, Python, SQL, Machine Learning
+","Deep Learning, TensorFlow, Git, Python, SQL, Machine Learning"
+CAND-1069,"Name: Casey Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using AWS and Spark.
+Skills: AWS, Spark, Airflow, Git, SQL, PyTorch
+","AWS, Spark, Airflow, Git, SQL, PyTorch"
+CAND-1070,"Name: Riley Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Git, JavaScript, C++, HTML.
+Skills: Git, JavaScript, C++, HTML
+","Git, JavaScript, C++, HTML"
+CAND-1071,"Name: Jamie Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Hadoop, TensorFlow, Git.
+Skills: Hadoop, TensorFlow, Git, NLP, Java
+","Hadoop, TensorFlow, Git, NLP, Java"
+CAND-1072,"Name: Jordan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including AWS, Spark, Docker, Git, Java.
+Skills: AWS, Spark, Docker, Git, Java
+","AWS, Spark, Docker, Git, Java"
+CAND-1073,"Name: Alex Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Hadoop, Deep Learning, Spark.
+Skills: Hadoop, Deep Learning, Spark, Airflow, Git, SQL, Kubernetes
+","Hadoop, Deep Learning, Spark, Airflow, Git, SQL, Kubernetes"
+CAND-1074,"Name: Casey Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using AWS and Deep Learning.
+Skills: AWS, Deep Learning, Spark, Docker, Git, SQL, Kubernetes
+","AWS, Deep Learning, Spark, Docker, Git, SQL, Kubernetes"
+CAND-1075,"Name: Morgan Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including AWS, Spark, TensorFlow, Git, SQL, Kubernetes.
+Skills: AWS, Spark, TensorFlow, Git, SQL, Kubernetes
+","AWS, Spark, TensorFlow, Git, SQL, Kubernetes"
+CAND-1076,"Name: Morgan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Deep Learning, AWS, Airflow.
+Skills: Deep Learning, AWS, Airflow, Python, Kubernetes
+","Deep Learning, AWS, Airflow, Python, Kubernetes"
+CAND-1077,"Name: Riley Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Hadoop, JavaScript, Spark.
+Skills: Hadoop, JavaScript, Spark, HTML, Git
+","Hadoop, JavaScript, Spark, HTML, Git"
+CAND-1078,"Name: Riley Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing CSS to improve efficiency.
+Skills: CSS, C++, JavaScript, HTML, Git, Java
+","CSS, C++, JavaScript, HTML, Git, Java"
+CAND-1079,"Name: Casey Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing AWS to improve efficiency.
+Skills: AWS, Hadoop, Docker, Git, SQL, Kubernetes, PyTorch
+","AWS, Hadoop, Docker, Git, SQL, Kubernetes, PyTorch"
+CAND-1080,"Name: Alex Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in React, CSS, C++.
+Skills: React, CSS, C++, JavaScript, HTML, Java
+","React, CSS, C++, JavaScript, HTML, Java"
+CAND-1081,"Name: Drew Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using AWS and Deep Learning.
+Skills: AWS, Deep Learning, TensorFlow, Git, Python, NLP
+","AWS, Deep Learning, TensorFlow, Git, Python, NLP"
+CAND-1082,"Name: Taylor Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in React, CSS, C++.
+Skills: React, CSS, C++, JavaScript, HTML
+","React, CSS, C++, JavaScript, HTML"
+CAND-1083,"Name: Alex Williams
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Deep Learning to improve efficiency.
+Skills: Deep Learning, CSS, C++, Airflow, NLP
+","Deep Learning, CSS, C++, Airflow, NLP"
+CAND-1084,"Name: Morgan Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including React, JavaScript, HTML, Git, Java.
+Skills: React, JavaScript, HTML, Git, Java
+","React, JavaScript, HTML, Git, Java"
+CAND-1085,"Name: Jordan Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing React to improve efficiency.
+Skills: React, CSS, Git, Kubernetes, Machine Learning
+","React, CSS, Git, Kubernetes, Machine Learning"
+CAND-1086,"Name: Taylor Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing CSS to improve efficiency.
+Skills: CSS, JavaScript, HTML, Git, Java
+","CSS, JavaScript, HTML, Git, Java"
+CAND-1087,"Name: Morgan Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in TensorFlow, Git, NLP.
+Skills: TensorFlow, Git, NLP, Python, SQL, PyTorch, Machine Learning
+","TensorFlow, Git, NLP, Python, SQL, PyTorch, Machine Learning"
+CAND-1088,"Name: Jordan Jones
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Deep Learning to improve efficiency.
+Skills: Deep Learning, AWS, Docker, Git, SQL
+","Deep Learning, AWS, Docker, Git, SQL"
+CAND-1089,"Name: Taylor Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in React, JavaScript, HTML.
+Skills: React, JavaScript, HTML, Git, Java
+","React, JavaScript, HTML, Git, Java"
+CAND-1090,"Name: Drew Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using Docker and Airflow.
+Skills: Docker, Airflow, NLP, Kubernetes, Java
+","Docker, Airflow, NLP, Kubernetes, Java"
+CAND-1091,"Name: Morgan Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in Deep Learning, TensorFlow, Git.
+Skills: Deep Learning, TensorFlow, Git, Python, NLP, SQL
+","Deep Learning, TensorFlow, Git, Python, NLP, SQL"
+CAND-1092,"Name: Jamie Wilson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using AWS and TensorFlow.
+Skills: AWS, TensorFlow, Git, NLP, Python, PyTorch, Machine Learning
+","AWS, TensorFlow, Git, NLP, Python, PyTorch, Machine Learning"
+CAND-1093,"Name: Taylor Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Hadoop, Spark, HTML, Git, NLP.
+Skills: Hadoop, Spark, HTML, Git, NLP
+","Hadoop, Spark, HTML, Git, NLP"
+CAND-1094,"Name: Jordan Davis
+Summary: Dedicated professional with background in tech logistics.
+Experience: Experienced professional highly skilled in HTML, Airflow, Kubernetes.
+Skills: HTML, Airflow, Kubernetes, Java, Machine Learning
+","HTML, Airflow, Kubernetes, Java, Machine Learning"
+CAND-1095,"Name: Drew Miller
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using Git and JavaScript.
+Skills: Git, JavaScript, React, HTML
+","Git, JavaScript, React, HTML"
+CAND-1096,"Name: Drew Smith
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Spark to improve efficiency.
+Skills: Spark, Docker, Airflow, Git, SQL, Kubernetes, PyTorch
+","Spark, Docker, Airflow, Git, SQL, Kubernetes, PyTorch"
+CAND-1097,"Name: Drew Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Worked as a software developer using JavaScript and C++.
+Skills: JavaScript, C++, Java, HTML
+","JavaScript, C++, Java, HTML"
+CAND-1098,"Name: Jamie Johnson
+Summary: Dedicated professional with background in tech logistics.
+Experience: Implemented a data pipeline utilizing Hadoop to improve efficiency.
+Skills: Hadoop, AWS, Docker, TensorFlow, Git, SQL
+","Hadoop, AWS, Docker, TensorFlow, Git, SQL"
+CAND-1099,"Name: Casey Brown
+Summary: Dedicated professional with background in tech logistics.
+Experience: Deployed applications and models utilizing modern tools including Hadoop, Git, NLP, Python, PyTorch, Machine Learning.
+Skills: Hadoop, Git, NLP, Python, PyTorch, Machine Learning
+","Hadoop, Git, NLP, Python, PyTorch, Machine Learning"
